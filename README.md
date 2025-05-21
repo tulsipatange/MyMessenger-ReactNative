@@ -23,6 +23,15 @@ MyMessenger-ReactNative/
 │   └── MessagesScreen.tsx   # Messages view component
 ├── assets/                  # App images and assets
 ├── ScreenShots/             # Screenshots of application
+│   ├── Web                  # Screenshots of app running on Edge browser
+│   │   ├── web_1.png
+│   │   ├── web_2.png
+│   │   └── web_3.png
+│   ├── Android              # Screenshots of app running on Android device
+│   │   ├── app_1.png
+│   │   ├── app_2.png
+│   │   ├── app_4.png
+│   │   └── app_4.png
 └── app.json                 # Main expo configuration
 ```
 
@@ -70,4 +79,8 @@ To run on Web:
 
 ### Screenshots
 1. App running on Android device
-2. App running on Web browser (Edge)
+![Screenshot](./ScreenShots/Android/app_1.png)
+![Screenshot](./ScreenShots/Android/app_2.png)
+![Screenshot](./ScreenShots/Android/app_3.png)
+![Screenshot](./ScreenShots/Android/app_4.png)
+3. App running on Web browser (Edge)
