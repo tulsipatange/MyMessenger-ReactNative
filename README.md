@@ -79,8 +79,9 @@ To run on Web:
 
 ### Screenshots
 1. App running on Android device
-![Screenshot](./ScreenShots/Android/app_1.png)
-![Screenshot](./ScreenShots/Android/app_2.png)
-![Screenshot](./ScreenShots/Android/app_3.png)
-![Screenshot](./ScreenShots/Android/app_4.png)
+<img src="./ScreenShots/Android/app_1.png" title="" alt="Image 1" width="214">
+<img src="./ScreenShots/Android/app_2.png" title="" alt="Image 2" width="214">
+<img src="./ScreenShots/Android/app_3.png" title="" alt="Image 3" width="214">
+<img src="./ScreenShots/Android/app_4.png" title="" alt="Image 4" width="214">
+
 3. App running on Web browser (Edge)
