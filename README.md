@@ -78,10 +78,5 @@ To run on Web:
 - press 'w' to open it in browser
 
 ### Screenshots
-1. App running on Android device
-<img src="./ScreenShots/Android/app_1.png" title="" alt="Image 1" width="214">
-<img src="./ScreenShots/Android/app_2.png" title="" alt="Image 2" width="214">
-<img src="./ScreenShots/Android/app_3.png" title="" alt="Image 3" width="214">
-<img src="./ScreenShots/Android/app_4.png" title="" alt="Image 4" width="214">
-
-3. App running on Web browser (Edge)
+1. App running on [Android device](https://github.com/tulsipatange/MyMessenger-ReactNative/tree/main/ScreenShots/Android)
+2. App running on [Web(Edge/Chrome) browser](https://github.com/tulsipatange/MyMessenger-ReactNative/tree/main/ScreenShots/Web)
